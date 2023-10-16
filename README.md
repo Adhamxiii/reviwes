@@ -23,7 +23,7 @@ A simple React application for displaying customer reviews.
 
 ## Live Demo
 
-See the application in action by visiting the [Live Demo](https://your-live-demo-url.com).
+See the application in action by visiting the [Live Demo](https://reviwes.vercel.app/).
 
 ## Contact Information
 
